@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ctouch1
+- 👀 I’m interested in FiveM
+- 🌱 I’m currently learning LUA
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me c_touch#9291
